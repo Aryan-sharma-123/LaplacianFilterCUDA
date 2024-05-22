@@ -4,9 +4,13 @@
 
 # steps:
  1. Write the commands exactly in the same as mentioned in the file.
+    
  2. The name of the uplaoded input image should be exactly same as mentioned in the code.
+
+   
  3. In my case it is named as images.jpg
     ![Screenshot 2024-05-22 233737](https://github.com/Aryan-sharma-123/LaplacianFilterCUDA/assets/131610146/89fb2be4-9eb9-4e9b-a3e0-aa22311ba0b4)
+    
 4. Wait for some time after successfully executing the commands & code and finally you will see the output image in the file section.
    ![Screenshot 2024-05-22 234108](https://github.com/Aryan-sharma-123/LaplacianFilterCUDA/assets/131610146/6efa5cc1-14c0-444e-8e0b-56da62e19b21)
 
