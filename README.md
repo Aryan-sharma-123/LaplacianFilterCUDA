@@ -1,3 +1,7 @@
+# NOTE:-
+ if LaplacianFilterCUDA.pynb code section doesn't work. Go with second file as I mentioned it separately.
+
+
 # steps:
  1. Write the commands exactly in the same as mentioned in the file.
  2. The name of the uplaoded input image should be exactly same as mentioned in the code.
